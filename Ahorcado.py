@@ -1,6 +1,6 @@
 from random import choice
 
-lista_de_palabras = ['hola', 'bienvenido', 'zumo', 'paradigma', 'pregunta']
+lista_de_palabras = ['paradigma', 'acertijo', 'maquina', 'escritorio', 'computadora', 'github']
 juego_terminado = False
 vidas = 6
 aciertos = 0
